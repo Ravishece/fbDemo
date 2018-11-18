@@ -1,0 +1,10 @@
+.product-entry{
+  position: relative;
+}
+
+.custom-checkbox{
+  position:absolute;
+  top: 5px;
+  left: 10px;
+  z-index: 100;
+}
