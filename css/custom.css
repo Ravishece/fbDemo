@@ -8,3 +8,7 @@
   left: 10px;
   z-index: 100;
 }
+
+.selected-items .custom-checkbox{
+  display: none;
+}

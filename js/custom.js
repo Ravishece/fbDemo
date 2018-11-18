@@ -11,6 +11,6 @@ $(document).ready(function(){
            }
        });
        //alert(selectedItemsString);
-       $('#modalBody').html('<div class="row">'+ selectedItemsString + '</div>');
+       $('#modalBody').html('<div class="row selected-items">'+ selectedItemsString + '</div>');
    })
 });
