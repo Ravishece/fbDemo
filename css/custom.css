@@ -12,3 +12,9 @@
 .selected-items .custom-checkbox{
   display: none;
 }
+
+.custom-dropdown{
+    color: #000;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
